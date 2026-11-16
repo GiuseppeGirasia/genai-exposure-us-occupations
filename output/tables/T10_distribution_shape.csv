@@ -1,0 +1,4 @@
+Index,P10,Median,P90,Skewness,Share at 0 (%),Share at 1 (%),Distinct values
+ILO (Gmyrek et al.),0.14,0.28,0.504,0.62,0.0,0.0,121
+Massenkoff–McCrory,0.0,0.0,0.282,2.131,54.374,0.0,324
+Dingel–Neiman,0.0,0.0,1.0,0.619,61.777,32.974,13

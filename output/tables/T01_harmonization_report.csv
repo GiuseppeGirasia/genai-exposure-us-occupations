@@ -1,0 +1,13 @@
+Step,ILO (Gmyrek et al.),Massenkoff–McCrory,Dingel–Neiman
+Original classification,ISCO-08 (4-digit),SOC 2018 (6-digit),O*NET-SOC 2010 (8-digit)
+Crosswalks applied,ISCO-08 -> SOC 2010 -> SOC 2018 (BLS),none (identity),truncation to SOC 2010 -> SOC 2018 (BLS)
+Original codes,427,756,968
+Original codes matched,427,756,968
+Original codes not matched,0,0,0
+Original codes split over several SOC 2018 codes,292,0,95
+SOC 2018 codes obtained,840,756,800
+SOC 2018 codes from one original code,651,756,667
+SOC 2018 codes aggregating several original codes,189,0,133
+SOC 2018 codes receiving the value of a split code,749,0,76
+Original codes lost,0,0,0
+Reason for losses / issues solved,none lost; 427 of 436 ISCO groups are scored (armed forces and 6 residual groups are not),none lost; all codes valid,none lost after mapping O*NET 19-1020.01 (Biologists) to SOC 2010 19-1029

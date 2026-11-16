@@ -1,0 +1,4 @@
+Index,What the index measures,1 SD in original units,Percentile of the mean,Percentile of mean + 1 SD,Example near the mean (D&N: value 0),Example near mean + 1 SD (D&N: value 1)
+ILO (Gmyrek et al.),mean task-level GenAI exposure score (0–1),0.136,57.2,83.7,Stockers and Order Fillers (0.29),First-Line Supervisors of Office and Administrative Support Workers (0.43)
+Massenkoff–McCrory,share of work time in tasks with observed work-related Claude usage (0–1),0.133,72.4,85.1,Cashiers (0.08),Loan Interviewers and Clerks (0.20)
+Dingel–Neiman,share of O*NET sub-occupations that can be done at home (0–1),0.467,63.7,66.6,Retail Salespersons (0.00),General and Operations Managers (1.00)
